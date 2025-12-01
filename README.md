@@ -105,6 +105,3 @@ You may provide additional warranties or obligations when distributing Derivativ
 You can use this License for your project by linking this README.md
 https://github.com/Mobilestars/License/blob/main/README.md
 
-
-To apply this License, include the following notice in your work:
-
