@@ -1,6 +1,6 @@
 # PRODUCT LICENSE  
 Version 1.0, December 2025  
-https://github.com/Mobilestars/License/blob/main/README.md
+https://github.com/Mobilestars/License/blob/main/LICENSE.md
 
 ## TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
@@ -102,6 +102,6 @@ You may provide additional warranties or obligations when distributing Derivativ
 
 ## APPENDIX: Applying This License to a Work
 
-You can use this License for your project by linking this README.md
-https://github.com/Mobilestars/License/blob/main/README.md
+You can use this License for your project by linking this LICENSE.md
+https://github.com/Mobilestars/License/blob/main/LICENSE.md
 
