@@ -1,85 +1,97 @@
-MOBILESTARS UNIVERSAL PRODUCT LICENSE (MUPL)
-Version 1.0 – Worldwide
-Copyright (c) Mobilestars (Jannik Scholl)
-All rights reserved.
+MOBILESTARS PRODUCT LICENSE
+Version 1.0, December 2025
+https://discord.gg/95ekxaGNB3
 
-------------------------------------------------------------
-§1 Definitions
-------------------------------------------------------------
-(1) “Product” refers to any work provided by Mobilestars, regardless of form or medium, including but not limited to: software, source code, binaries, digital assets, images, videos, text, models, data, music, documentation, and all components, fragments, modules, or derivative elements thereof.
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
-(2) “Derivative Work” refers to any work that is based on, modifies, extends, incorporates, or otherwise uses the Product in whole or in part.
+1. Definitions.
 
-(3) “Licensee” refers to any individual or legal entity using the Product.
+   “License” shall mean the terms and conditions for use, reproduction, and distribution as defined in this document.
 
-------------------------------------------------------------
-§2 Grant of Rights
-------------------------------------------------------------
-(1) The Licensee may use the Product **privately** without restriction.
+   “Licensor” shall mean Mobilestars (Jannik Scholl), the copyright owner granting this License.
 
-(2) **Public use**, display, publication, or distribution of the Product is permitted only if:
-    a) Mobilestars is credited as the original creator,
-    b) a working link to the original Product is provided,
-    c) a link to this license is included.
+   “Legal Entity” shall mean the union of the acting entity and any entity controlling, controlled by, or under common control with that entity.
 
-(3) The Product may be used **only for lawful purposes**.
+   “You” (or “Your”) shall mean an individual or Legal Entity exercising permissions granted by this License.
 
-(4) All rights to the Product remain solely and permanently with Mobilestars.
+   “Source” form shall mean the preferred form for modifying a work, including but not limited to source code, raw assets, documentation, and configuration files.
 
-------------------------------------------------------------
-§3 Derivative Works
-------------------------------------------------------------
-(1) Derivative Works are permitted if:
-    a) all portions originating from Mobilestars are clearly labeled, and
-    b) all such portions remain exclusively licensed under this MUPL license.
+   “Object” form shall mean any form resulting from mechanical transformation of a Source form, including but not limited to compiled code, packaged assets, rendered media, or converted formats.
 
-(2) Derivative Works may be released under any license, but all elements originating from Mobilestars must remain under MUPL.
+   “Product” shall mean any work provided by the Licensor in Source or Object form, including but not limited to software, code, images, audio, models, text, digital assets, or any part thereof.
 
-(3) Derivative Works may be sold **only with prior written approval from Mobilestars**, regardless of the proportion originating from Mobilestars.
+   “Derivative Work” shall mean any work that is based on or incorporates the Product, including modifications, additions, integrations, or transformations. Derivative Works do not include works that remain separable from the Product.
 
-(4) Further derivatives of Derivative Works are subject to the same obligations. Any component derived from the original Product must either:
-    a) remain under MUPL, or  
-    b) be fully removed or independently recreated.
+   “Contribution” shall mean any work submitted to the Licensor for inclusion in the Product.
 
-(5) Mobilestars receives an automatic, irrevocable right to use, analyze, and create new works from any Derivative Work, regardless of its chosen license.  
-This right applies solely to Mobilestars. All other parties are bound by the license of the Derivative Work.
+   “Contributor” shall mean the Licensor and any party whose Contribution is incorporated into the Product.
 
-------------------------------------------------------------
-§4 Restrictions
-------------------------------------------------------------
-(1) Sale or resale of the unmodified Product is strictly prohibited.
+2. Grant of Use License.
 
-(2) Any use not expressly permitted in this license is prohibited unless individually negotiated with Mobilestars.
+   Subject to the terms of this License, the Licensor grants You a non-exclusive license to privately use, view, and modify the Product.
 
-(3) Exceptions or special permissions are valid only with written approval from Mobilestars.
+   Public use, publishing, distribution, or display of the Product is permitted only if:
+      (a) You credit Mobilestars as the creator,
+      (b) You provide a link to the original Product, and
+      (c) You include a link to this License.
 
-------------------------------------------------------------
-§5 Ownership, Warranty, and Liability
-------------------------------------------------------------
-(1) All intellectual property rights to the Product remain entirely with Mobilestars.  
-In any Derivative Work, all original portions remain exclusively the property of Mobilestars.
+   All use must be lawful. All rights not expressly granted are reserved by the Licensor.
 
-(2) The Product is provided “as is,” without warranty of any kind, express or implied. Mobilestars assumes no liability for damages or consequences resulting from its use.
+3. Derivative Works.
 
-------------------------------------------------------------
-§6 Jurisdiction
-------------------------------------------------------------
-This license is valid and enforceable worldwide.
+   You may create Derivative Works under the following conditions:
+      (a) You clearly identify all portions originating from the Product,
+      (b) All original portions of the Product remain licensed under this License,
+      (c) Derivative Works may choose any license, but portions originating from the Licensor must remain under this License.
 
-------------------------------------------------------------
-§7 Contact and Negotiation
-------------------------------------------------------------
-All negotiations, special permissions, licensing exceptions, and sales inquiries must be approved by Mobilestars.
+   Derivative Works may be sold only with prior written approval from the Licensor.
 
-Contact:
-- Discord: https://discord.gg/95ekxaGNB3
-- Email: jannik.scholl@proton.me
+   Further derivatives of Derivative Works must either:
+      (a) keep all Mobilestars-originated portions under this License, or
+      (b) remove or fully recreate such portions.
 
-------------------------------------------------------------
-END OF LICENSE
+   The Licensor automatically obtains a perpetual, irrevocable right to use any Derivative Work created by You, regardless of the license applied to that Derivative Work. This right applies only to the Licensor.
 
+4. Redistribution.
 
-------------------------------------------------------------
-SHORT SUMMARY (≤350 characters)
-------------------------------------------------------------
-“Private use allowed. Public use requires credit, link to original, and link to license. Sale of the original is forbidden; derivatives require approval. My contributions always remain under my license. All other uses are prohibited unless negotiated. All rights stay with me.”
+   Redistribution of the unmodified Product is allowed only if:
+      (a) this License is included in full,
+      (b) the Product is not sold or monetized in any form,
+      (c) attribution and required links are preserved.
+
+   Redistribution of Derivative Works must comply with Section 3.
+
+5. Restrictions.
+
+   Any use not explicitly permitted in this License is prohibited unless written permission is granted by the Licensor.
+
+   Special conditions and exceptions may only be granted by explicit agreement with the Licensor.
+
+6. Trademarks.
+
+   This License does not grant rights to use the trademarks, service marks, or product names of the Licensor except as required for attribution.
+
+7. Disclaimer of Warranty.
+
+   The Product is provided on an “AS IS” basis, without warranties or conditions of any kind, express or implied, including but not limited to warranties of title, non-infringement, merchantability, or fitness for a particular purpose. You assume all risks associated with using the Product.
+
+8. Limitation of Liability.
+
+   In no event shall the Licensor be liable for damages of any kind arising from the use of the Product, including but not limited to loss of data, business interruption, or any indirect, incidental, or consequential damages.
+
+9. Additional Liability.
+
+   You may offer additional warranties or obligations when distributing Derivative Works, but only on Your own behalf and responsibility. You agree to indemnify the Licensor from any liability arising from such obligations.
+
+END OF TERMS AND CONDITIONS
+
+APPENDIX: How to apply this license to your work.
+
+   To apply this license to your work, include the following notice, replacing the bracketed fields:
+
+   Copyright 2025 Mobilestars (Jannik Scholl)
+   Licensed under the Mobilestars Universal Product License, Version 1.0.
+   You may not use this file except in compliance with the License.
+   A copy of the License is available upon request from the Licensor.
+
+   The Product is provided “AS IS,” without warranties or conditions of any kind.
